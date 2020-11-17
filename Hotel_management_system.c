@@ -12,7 +12,7 @@
  void about();
  void querie();
  void backToMain();
-// void cls();
+// void cls(); U can Uncomment cls function to run this progrram in codeblock(cls stands for clear function)
  void timefunction();
  void breakfast();
  void lunch();
